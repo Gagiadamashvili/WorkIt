@@ -1,0 +1,337 @@
+@media screen and (min-width: 760px) {
+
+    .workit {
+        background-color: #FCF8FF;
+        height: 900px;
+    }
+
+    header {
+        width: 768px;
+        height: 540.24px;
+    }
+
+    .mainbox {
+        width: 768px;
+        height: 600px;
+        margin-top: 230px;
+        border-bottom-right-radius: 100% 5%;
+        border-bottom-left-radius: 100% 5%;
+        background-color: #FCF8FF;
+    }
+
+    .box1 {
+        display: flex;
+        margin-top: 100px;
+        width: 573px;
+        height: 108px;
+
+    }
+
+    .number {
+        margin-left: 97px;
+        margin-top: 40px;
+    }
+
+    .maintxt p {
+        width: 493px;
+        height: 108px;
+        text-align: start;
+        margin-left: 32px;
+    }
+
+    .maintxt span {
+        width: 210px;
+        height: 36px;
+        margin-left: -210px;
+    }
+
+    .txt2 {
+        padding-left: 35px;
+    }
+
+    .datatxt {
+        width: 573px;
+        height: 121px;
+        font-family: 'Fraunces';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 60px;
+        line-height: 60px;
+        text-align: center;
+        color: var(--white);
+        margin-left: 97px;
+    }
+
+    .line2 {
+        width: 220px;
+        height: 3px;
+        position: relative;
+        left: 315px;
+        bottom: 63px;
+    }
+
+    .learnmore {
+        margin-left: 317px;
+    }
+
+    .mobile {
+        background-image: url(./Assets/mob2.svg);
+        width: 479.15px;
+        height: 286.6px;
+        background-repeat: no-repeat;
+        position: relative;
+        left: 151px;
+    }
+
+    .footer {
+        width: 750px;
+        height: 750px;
+    }
+
+    .footerborder {
+        width: 514px;
+        height: 375px;
+        position: relative;
+        left: 200px;
+        bottom: 130px;
+    }
+
+    .footerborder span {
+        width: 327px;
+        height: 56px;
+        font-size: 48px;
+        font-weight: 600;
+        line-height: 56px;
+        font-style: normal;
+        font-family: 'Fraunces';
+        color: var(--white);
+        margin-top: 30px;
+    }
+
+    .footerborder p {
+        text-align: start;
+        width: 452px;
+        height: 112px;
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        color: var(--white);
+        margin-top: 17px;
+
+    }
+
+    .button {
+        margin-top: 80px;
+        margin-left: 26px;
+    }
+
+    .footerimg2 {
+        margin-left: 336.35px;
+        margin-top: -50px;
+    }
+
+    .icon {
+        margin-left: 326px;
+    }
+
+    .oval1{
+        display: block;
+        position: relative;
+        top: -630px;
+        right: 10px;
+    }
+
+    .oval2{
+        display: block;
+        position: relative;
+        top: -720px;
+        left: 690px;
+    }
+}
+
+
+@media screen and (min-width: 1400px){
+
+    .workit{
+        width: 100%;
+        height: 1200px;
+        background-color: #FCF8FF;
+    }
+
+    header{
+        width: 100%;
+        height: 730px;
+    }
+
+    .logo{
+        width: 1200px;
+        position: relative;
+        left: 165px;
+
+    }
+
+    .headertxt{
+        position: relative;
+        right: 130px;
+    }
+
+    .mainbox{
+        width: 100%;
+        background-color: #FCF8FF;
+        display: flex;
+        justify-content: center;
+        border: 0px;
+        border-bottom-right-radius: 100% 30%;
+        border-bottom-left-radius: 100% 30%;
+    }
+
+    .box1{
+        width: 604px;
+        height: 200px;
+        display: grid;
+        grid-template-columns:auto;
+    
+    }
+
+    .number{
+        margin-left: 180px;
+    }
+
+    .box1 span{
+        margin-left: -50px;
+        width: 354px;
+        height: 40px;
+    }
+
+    .txt2{
+        position: relative;
+        right: 20px;
+    }
+
+    .box1 p{
+        width: 354px;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .oval1{
+        display: block;
+        position: relative;
+        top: -750px;
+        right: 120px;
+    }
+
+    .oval2{
+        display: block;
+        position: relative;
+        top: -840px;
+        left: 1358px;
+    }
+
+    .datatxt{
+        
+        width: 635px;
+        height: 160px;
+        font-family: 'Fraunces';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 80px;
+        line-height: 80px;
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .title{
+        margin-left: 300px;
+        margin-top: 100px;
+        width: 1000px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .line2{
+        width: 300px;
+        height: 3px;
+        position: relative;
+        top: 0px;
+        left: -400px
+    }
+
+    .number{
+        width: 56px;
+        height: 56px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .learnmore{
+        width: 161px;
+        height: 61px;
+        margin-left: 600px;
+    }
+
+    .mobile{
+        background-image: url(./Assets/mob3.svg);
+        width: 702px;
+        height: 455px;
+        position: relative;
+        left: 368px;
+    }
+
+    .footerimg{
+        background-image: url(./Assets/desktopman.svg);
+        width: 477px;
+        height: 477px;
+        margin-left: 163px;
+        margin-top: 110px;
+    }
+
+    .footerborder{
+        width: 730px;
+        height: 413px;
+        position: relative;
+        left: 535px;
+        top: -286px
+    }
+
+    .footerborder span{
+        width: 382px;
+        height: 64px;
+        margin-left: 10px;
+        font-size: 56px;
+    }
+
+    .footerborder p{
+        width: 602px;
+        height: 92px;
+        margin-left: 17px;
+        font-size: 18px;
+    }
+
+    .footer{
+        width: 100%;
+        height: 850px;
+    }
+
+    .button{
+        width: 190px;
+        height: 61px;
+        margin-left: 45px;
+        margin-top: 100px;
+    }
+
+    .footerimg2{
+        margin-top: -190px;
+        margin-left: 671px;
+    }
+
+    .icon{
+        margin-left: 661px;
+    }
+
+
+}
